@@ -1,0 +1,15 @@
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\bin\Debug\net8.0\LTShowCase.exe
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\bin\Debug\net8.0\LTShowCase.deps.json
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\bin\Debug\net8.0\LTShowCase.runtimeconfig.json
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\bin\Debug\net8.0\LTShowCase.dll
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\bin\Debug\net8.0\LTShowCase.pdb
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\obj\Debug\net8.0\LTShowCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\obj\Debug\net8.0\LTShowCase.AssemblyInfoInputs.cache
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\obj\Debug\net8.0\LTShowCase.AssemblyInfo.cs
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\obj\Debug\net8.0\LTShowCase.csproj.CoreCompileInputs.cache
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\obj\Debug\net8.0\LTShowCase.sourcelink.json
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\obj\Debug\net8.0\LTShowCase.dll
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\obj\Debug\net8.0\refint\LTShowCase.dll
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\obj\Debug\net8.0\LTShowCase.pdb
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\obj\Debug\net8.0\LTShowCase.genruntimeconfig.cache
+D:\C#\Showcase-Exact-Change\LTShowCase\LTShowCase\obj\Debug\net8.0\ref\LTShowCase.dll
